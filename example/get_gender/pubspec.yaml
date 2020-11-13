@@ -1,0 +1,10 @@
+name: get_gender
+description: Genderize API example 1.
+version: 0.0.1
+homepage: https://github.com/manu-urba/dart-genderize-api
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+  genderize: ^0.0.1

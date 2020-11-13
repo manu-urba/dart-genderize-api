@@ -1,0 +1,11 @@
+name: genderize
+description: Genderize API wrapper for Dart, determinate the gender of a name.
+version: 0.0.1
+homepage: https://github.com/manu-urba/dart-genderize-api
+
+environment:
+  sdk: '>=2.6.0 <3.0.0'
+
+dependencies:
+  dio: ^3.0.10
+  meta: ^1.2.3
