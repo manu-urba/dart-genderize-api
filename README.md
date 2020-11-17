@@ -1,4 +1,4 @@
-# dart-genderize-api [![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/genderize)
+# dart-genderize-api [![pub package](https://img.shields.io/pub/v/genderize.svg)](https://pub.dartlang.org/packages/genderize)
 Genderize API wrapper for Dart.
 This package will help you to determinate the gender of a person from his name.
 
